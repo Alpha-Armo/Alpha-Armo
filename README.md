@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alpha-Armo
 - 👀 I’m interested in ...Secuirity Anylysis
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...You can contact me via gmail-krishnarjungitagyan@gmail.com
 
